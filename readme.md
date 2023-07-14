@@ -110,7 +110,8 @@ Request Body:
 {
   "name": "Jane Smith",
   "email": "jane@example.com",
-  "course": "Web Development"
+  "courseInterest": "Web Development",
+  "phone" : 9999999
 }
 
 ```
