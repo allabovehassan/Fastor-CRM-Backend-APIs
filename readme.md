@@ -65,7 +65,8 @@ JWT_SECRET = your_jwt_secret
 
 ## API Endpoints
 
-# Deployed Link - https://powerful-sombrero-hen.cyclic.app/
+## Deployed Link - https://powerful-sombrero-hen.cyclic.app/
+## Video Link - https://drive.google.com/file/d/10ZqOxpzQAwVSHCBrMKxM37iFn2OmCSTO/view?usp=sharing
 
 ### Employee Registration
 - POST /register
