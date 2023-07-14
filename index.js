@@ -8,10 +8,9 @@ app.use(cookieParser());
 const { Erouter } = require("./Routes/Employee_LR_Routes");
 const { Crouter } = require("./Routes/Client_Routes");
 
-
 app.get("/home", (req, res) => {
-    res.send(`Welcome To Fastor Backend CRM APIs`)
-})
+  res.send(`Welcome To Fastor Backend CRM APIs`);
+});
 
 app.use("/enquiries", Crouter);
 
