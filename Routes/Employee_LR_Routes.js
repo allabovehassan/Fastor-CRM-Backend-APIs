@@ -7,7 +7,7 @@ const jwt = require("jsonwebtoken");
 const { employeeModel } = require("../Model/Employee_Modal");
 
 Erouter.get("/", (req, res) => {
-  res.send("Employee APi Working Fine");
+  res.send("Welcome To Fastor Backend CRM APIs");
 });
 
 //Register

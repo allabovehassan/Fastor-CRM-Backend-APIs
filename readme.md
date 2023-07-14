@@ -65,6 +65,8 @@ JWT_SECRET = your_jwt_secret
 
 ## API Endpoints
 
+# Deployed Link - https://powerful-sombrero-hen.cyclic.app/
+
 ### Employee Registration
 - POST /register
 - Registers a new employee/counselor with the CRM.
