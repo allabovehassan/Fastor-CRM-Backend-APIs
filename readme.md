@@ -55,9 +55,10 @@ Define the following environment variables in the .env file:
 
 ```shell
 
-PORT = 9090
-MONGODB_URL = your_mongodb_url
-JWT_SECRET = your_jwt_secret
+port = 9090
+mongoURL = your_mongodb_url
+key = your_jwt_secret
+saltround = as per your need
 
 ```
 - Replace your_mongodb_uri with the URI of your MongoDB database, and your_jwt_secret with your preferred secret key for JWT token.
